@@ -1,2 +1,20 @@
-# CodeGeeXABtest
-this repository is set for test the developer improvement 
+# 这是一项实验
+
+## 使用流程
+- 请首先下载该仓库
+- 根据说明安装配置环境
+- 同时请创立新的分支 分支以自己名字+test命名
+- 在新分支里面新建readme并初始化此刻的时间。
+- 开始根据任务编写相关代码
+- 完成代码是请在readme中记录完成时间
+- 继续在readme里面记录这个过程中遇到的困难或特殊点
+- 提交PR
+
+# 日常任务
+- 请打开vue-chat查看相关环境设置与任务说明
+
+
+
+
+
+
